@@ -1,4 +1,4 @@
-<h1 align="Center">🎬 DaVinci Resolve — Favorite Clips Collection</h1>
+<h1 align="Center">🎬 DaVinci Resolve — Top Clips Collection</h1>
 
 <table align="center">
 <tr>
@@ -17,3 +17,4 @@
 </td>
 </tr>
 </table>
+
