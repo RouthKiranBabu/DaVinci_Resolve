@@ -7,10 +7,11 @@
 </td>
 
 <td align="center" width="50%">
-<img src="https://github.com/RouthKiranBabu/DaVinci_Resolve/blob/main/Myself/Profile.png" width="100%"/>
+<img src="./Profile_Image.png" width="100%"/>
 
 </td>
 </tr>
 </table>
+
 
 
