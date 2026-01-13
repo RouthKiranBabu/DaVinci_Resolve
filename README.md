@@ -8,13 +8,17 @@
 <img src="https://github.com/RouthKiranBabu/RouthKiranBabu/blob/main/imgif/SDET.gif" width="100%"/>
 </td>
 
- <td align="center" width="50%">
-<b>[DaVinci Resolve] - 🎬 Rest-Assured</b><br/><br/>
-<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/03_%5BRestAssured%20%26%20TestNG%5D%20-%20API%20Test%20Automation%20Framework%20Using%20Rest-Assured/Document%20and%20Gif/ClientServerHTTP.gif" width="100%"/>
+<td align="center" width="50%">
+<b>[DaVinci Resolve] - 🎬 JDBC Maven ↔ MySQL Execution Demo</b><br/><br/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/04_%5BMaven%20%26%20MySQL%5D%20-%20Enterprise-Grade%20Java%20JDBC%20CRUD%20Framework%20with%20MySQL%20using%20Maven/Documents%20and%20Gif/GifFile.gif" width="100%"/>
 </td>
 
 </tr>
 <tr>
+
+ <td align="center" width="50%">
+<b>[DaVinci Resolve] - 🎬 Rest-Assured</b><br/><br/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/03_%5BRestAssured%20%26%20TestNG%5D%20-%20API%20Test%20Automation%20Framework%20Using%20Rest-Assured/Document%20and%20Gif/ClientServerHTTP.gif" width="100%"/>
   
 <td align="center" width="50%">
 <b>[DaVinci Resolve] - 🎬 Cucumber</b><br/><br/>
@@ -24,5 +28,6 @@
 </tr>
 
 </table>
+
 
 
