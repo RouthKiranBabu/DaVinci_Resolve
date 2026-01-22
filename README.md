@@ -21,11 +21,15 @@
 <img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/03_%5BRestAssured%20%26%20TestNG%5D%20-%20API%20Test%20Automation%20Framework%20Using%20Rest-Assured/Document%20and%20Gif/ClientServerHTTP.gif" width="100%"/>
 
   <td align="center" width="50%">
-<b>[DaVinci Resolve] - 🎬 Postman API Execution Demo</b><br/><br/>
-<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/05_%5BPostman%5D%20%E2%80%93%20CRUD%2C%20Schema%20Validation%20%26%20Collection%20Variables/Documents%20and%20Gif/Postman.gif" width="100%"/>
+<b>[DaVinci Resolve] - 🎬 Game Execution Demo</b><br/><br/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/06_%5BPython%5D%20-%20Smart%20Tic-Tac-Toe%20AI%20Engine%20with%20Memory%20Learning/Document%20and%20Gif/GifFile.gif" width="100%"/>
 
 </tr>
 <tr>
+
+  <td align="center" width="50%">
+<b>[DaVinci Resolve] - 🎬 Postman API Execution Demo</b><br/><br/>
+<img src="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/Projects/Year_Equals_2026/01_Jan/05_%5BPostman%5D%20%E2%80%93%20CRUD%2C%20Schema%20Validation%20%26%20Collection%20Variables/Documents%20and%20Gif/Postman.gif" width="100%"/>
 
 <td align="center" width="50%">
 <b>[DaVinci Resolve] - 🎬 Cucumber</b><br/><br/>
@@ -40,6 +44,7 @@
 </tr>
 
 </table>
+
 
 
 
